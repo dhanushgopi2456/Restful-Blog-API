@@ -1,0 +1,5 @@
+{
+  "name": "RESTful Blog API",
+  "description": "A production-ready RESTful API for a blog application with authentication, posts, and comments.",
+  "requestFramePermissions": []
+}
